@@ -7,23 +7,23 @@ class Kuukura < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/victorlunam/kuukura/releases/download/v2026.10.12/kuukura_2026.10.12_darwin_arm64.tar.gz"
-      sha256 "356e30196ca450803e2cd66bd00c948255aa98a33a92537192df01fa7fcc9bae"
+      url "https://github.com/victorlunam/kuukura/releases/download/v2026.10.13/kuukura_2026.10.13_darwin_arm64.tar.gz"
+      sha256 "cd74015a2057df2385e682a5e171b1d9b7b732df16f287da68715441e417ee7b"
     end
     on_intel do
-      url "https://github.com/victorlunam/kuukura/releases/download/v2026.10.12/kuukura_2026.10.12_darwin_amd64.tar.gz"
-      sha256 "05d0571b98a1713bab6683e1695a0e7697822aac019994ab8af370411a3e7540"
+      url "https://github.com/victorlunam/kuukura/releases/download/v2026.10.13/kuukura_2026.10.13_darwin_amd64.tar.gz"
+      sha256 "1861d7bf90855280df78df03af4822e5b0366456908aad2d6a998ff462a0f060"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/victorlunam/kuukura/releases/download/v2026.10.12/kuukura_2026.10.12_linux_arm64.tar.gz"
-      sha256 "1793adcf27653dce37f5e454f9f2f083ad4f85962be6cd0451950eb11a54cc81"
+      url "https://github.com/victorlunam/kuukura/releases/download/v2026.10.13/kuukura_2026.10.13_linux_arm64.tar.gz"
+      sha256 "2ae00aeff82ceec90132671dbedaafe9f7b9dff7701a194c50550410be3b63fd"
     end
     on_intel do
-      url "https://github.com/victorlunam/kuukura/releases/download/v2026.10.12/kuukura_2026.10.12_linux_amd64.tar.gz"
-      sha256 "93bc674458d2d48be5cbb16277f6da983ea919989ec0117de82909bf79b7c140"
+      url "https://github.com/victorlunam/kuukura/releases/download/v2026.10.13/kuukura_2026.10.13_linux_amd64.tar.gz"
+      sha256 "6d3ea8e96349ec0032274959dcb428159792fe10331d5e2664802b030c778edd"
     end
   end
 
